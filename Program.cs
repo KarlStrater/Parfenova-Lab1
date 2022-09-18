@@ -1,7 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("It is a programm to count the perimeter of rectangle");
 
-int a, b, perimetr=0;
+Console.WriteLine("It is a programm to count the area of rectangle");
+
+int a, b, area=0;
 bool isNumber=false;
 while (!isNumber) {
     Console.WriteLine("Write the length: ");
@@ -10,7 +10,7 @@ while (!isNumber) {
     if (isNumber)
     {
         a = Convert.ToInt32(line);
-        perimetr = a + a;
+        area = a;
     }
     else
         Console.WriteLine("Wrong input... Try again)");
@@ -24,10 +24,10 @@ while (!isNumber)
     if (isNumber)
     {
         b = Convert.ToInt32(line);
-        perimetr += b + b;
+        area *= b;
     }
     else
         Console.WriteLine("Wrong input... Try again)");
 }
-Console.WriteLine("Perimetr is: ");
-Console.WriteLine(perimetr);
+Console.WriteLine("Area is: ");
+Console.WriteLine(area);
