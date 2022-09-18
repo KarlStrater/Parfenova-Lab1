@@ -9,7 +9,9 @@ while (!isNumber) {
     isNumber=int.TryParse(line, out a);
     if (isNumber)
     {
-        a = Convert.ToInt32(line);
+        if(n<=0)
+            { Console.WriteLine("Wrong input... Try again)"); }
+        else
         area = a;
     }
     else
@@ -23,7 +25,9 @@ while (!isNumber)
     isNumber = int.TryParse(line, out b);
     if (isNumber)
     {
-        b = Convert.ToInt32(line);
+        if(n<=0)
+            { Console.WriteLine("Wrong input... Try again)"); }
+        else
         area *= b;
     }
     else
