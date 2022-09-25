@@ -9,8 +9,8 @@ while (!isNumber) {
     isNumber=int.TryParse(line, out a);
     if (isNumber)
     {
-        if(n<=0)
-            { Console.WriteLine("Wrong input... Try again)"); }
+        if(a<=0)
+            { Console.WriteLine("Wrong input... Try again)");isNumber=false; }
         else
         area = a;
     }
@@ -25,8 +25,9 @@ while (!isNumber)
     isNumber = int.TryParse(line, out b);
     if (isNumber)
     {
-        if(n<=0)
-            { Console.WriteLine("Wrong input... Try again)"); }
+        if(b<=0)
+            { Console.WriteLine("Wrong input... Try again)"); 
+            isNumber=false;}
         else
         area *= b;
     }
