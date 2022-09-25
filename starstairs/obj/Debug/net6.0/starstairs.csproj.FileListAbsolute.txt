@@ -1,0 +1,14 @@
+C:\Users\blank\Desktop\Новая папка\starstairs\bin\Debug\net6.0\starstairs.exe
+C:\Users\blank\Desktop\Новая папка\starstairs\bin\Debug\net6.0\starstairs.deps.json
+C:\Users\blank\Desktop\Новая папка\starstairs\bin\Debug\net6.0\starstairs.runtimeconfig.json
+C:\Users\blank\Desktop\Новая папка\starstairs\bin\Debug\net6.0\starstairs.dll
+C:\Users\blank\Desktop\Новая папка\starstairs\bin\Debug\net6.0\ref\starstairs.dll
+C:\Users\blank\Desktop\Новая папка\starstairs\bin\Debug\net6.0\starstairs.pdb
+C:\Users\blank\Desktop\Новая папка\starstairs\obj\Debug\net6.0\starstairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blank\Desktop\Новая папка\starstairs\obj\Debug\net6.0\starstairs.AssemblyInfoInputs.cache
+C:\Users\blank\Desktop\Новая папка\starstairs\obj\Debug\net6.0\starstairs.AssemblyInfo.cs
+C:\Users\blank\Desktop\Новая папка\starstairs\obj\Debug\net6.0\starstairs.csproj.CoreCompileInputs.cache
+C:\Users\blank\Desktop\Новая папка\starstairs\obj\Debug\net6.0\starstairs.dll
+C:\Users\blank\Desktop\Новая папка\starstairs\obj\Debug\net6.0\ref\starstairs.dll
+C:\Users\blank\Desktop\Новая папка\starstairs\obj\Debug\net6.0\starstairs.pdb
+C:\Users\blank\Desktop\Новая папка\starstairs\obj\Debug\net6.0\starstairs.genruntimeconfig.cache
