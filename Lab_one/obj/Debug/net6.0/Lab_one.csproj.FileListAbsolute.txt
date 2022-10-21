@@ -1,0 +1,15 @@
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\bin\Debug\net6.0\Lab_one.exe
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\bin\Debug\net6.0\Lab_one.deps.json
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\bin\Debug\net6.0\Lab_one.runtimeconfig.json
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\bin\Debug\net6.0\Lab_one.dll
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\bin\Debug\net6.0\ref\Lab_one.dll
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\bin\Debug\net6.0\Lab_one.pdb
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\obj\Debug\net6.0\Lab_one.csproj.AssemblyReference.cache
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\obj\Debug\net6.0\Lab_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\obj\Debug\net6.0\Lab_one.AssemblyInfoInputs.cache
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\obj\Debug\net6.0\Lab_one.AssemblyInfo.cs
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\obj\Debug\net6.0\Lab_one.csproj.CoreCompileInputs.cache
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\obj\Debug\net6.0\Lab_one.dll
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\obj\Debug\net6.0\ref\Lab_one.dll
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\obj\Debug\net6.0\Lab_one.pdb
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\obj\Debug\net6.0\Lab_one.genruntimeconfig.cache

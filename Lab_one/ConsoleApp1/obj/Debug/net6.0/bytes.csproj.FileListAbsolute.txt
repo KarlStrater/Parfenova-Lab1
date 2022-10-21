@@ -1,0 +1,14 @@
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\bin\Debug\net6.0\bytes.exe
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\bin\Debug\net6.0\bytes.deps.json
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\bin\Debug\net6.0\bytes.runtimeconfig.json
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\bin\Debug\net6.0\bytes.dll
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\bin\Debug\net6.0\ref\bytes.dll
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\bin\Debug\net6.0\bytes.pdb
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\obj\Debug\net6.0\bytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\obj\Debug\net6.0\bytes.AssemblyInfoInputs.cache
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\obj\Debug\net6.0\bytes.AssemblyInfo.cs
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\obj\Debug\net6.0\bytes.csproj.CoreCompileInputs.cache
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\obj\Debug\net6.0\bytes.dll
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\obj\Debug\net6.0\ref\bytes.dll
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\obj\Debug\net6.0\bytes.pdb
+C:\Users\blank\Desktop\Новая папка\labs\Lab_one\ConsoleApp1\obj\Debug\net6.0\bytes.genruntimeconfig.cache
